@@ -1,8 +1,0 @@
-version: '3.8'
-
-services:
-  app:
-    build: .
-    container_name: python_practice_app
-    environment:
-      - USER_NAME=Стажорик
